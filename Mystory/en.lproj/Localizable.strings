@@ -1,0 +1,185 @@
+//-------Quiz_----
+
+//  Localizable.strings
+//  Mystory
+//
+//  Created by Jojo on 08/12/2025.
+//
+//-------QUIZ Screen------
+/* Quiz generic */
+"quiz_title" = "Let's answer the questions";
+"next_btn"  = "Next";
+"true_btn"  = "True";
+"false_btn" = "False";
+
+/* Scenario 1 */
+"s1_q1_title"   = "How did Khaled ask to play?";
+"s1_q1_option1" = "He shouted at the children";
+"s1_q1_option2" = "He smiled and asked politely";
+"s1_q2_title"   = "Did Khaled ask to play in the correct way?";
+
+/* Scenario 2 */
+"s2_q1_title"   = "What is the correct behavior when Khaled gets angry?";
+"s2_q1_option1" = "He breaks the blocks";
+"s2_q1_option2" = "He sits and takes a breath";
+"s2_q2_title"   = "Does staying calm help me solve the problem?";
+
+/* Scenario 3 */
+"s3_q1_title"   = "What did Khaled do when he felt shy?";
+"s3_q1_option1" = "He hid";
+"s3_q1_option2" = "He took a breath and stepped forward with a smile";
+"s3_q2_title"   = "Does smiling help me when I feel shy?";
+
+/* Scenario 4 */
+"s4_q1_title"   = "How did Khaled help his friend?";
+"s4_q1_option1" = "He laughed at him";
+"s4_q1_option2" = "He asked him if he was okay";
+"s4_q2_title"   = "Is helping a sad friend the right thing to do?";
+
+
+"story_title" = "The Story";
+"edit_button" = "Edit";
+"add_image" = "Add an image to this page";
+"enter_title" = "Write the story title";
+"write_page" = "Write this page of the story";
+"page" = "Page";
+"of" = "of";
+"save_story" = "Save Story";
+
+//-------choose_character_----
+"choose_character_title" = "Choose your character";
+"choose_boy" = "Choose Boy";
+"choose_girl" = "Choose Girl";
+//-------choose story------
+"home_menu_choose_story" = "Choose a Story";
+"home_menu_create_story" = "Create a Story";
+
+"category_screen_title" = "Choose a Story";
+
+"category_play"        = "I want to play";
+"category_angry"       = "I feel angry";
+"category_friend_sad"       = "My friend is sad";
+"category_friend_sad_girl"  = "My sad friend (girl)";
+"category_shy"         = "I feel shy";
+
+"story_generic_body" = "The story of these feelings will appear here.";
+
+"najla_story_title" = "I want to play";
+"najla_story_body"  = "Najla's special story for this case will appear here.";
+
+"create_story_title" = "Create a Story";
+
+/////Najla
+"listen_btn" = "Listen";
+"pause_btn" = "Pause";
+"finish_btn" = "Finish";
+"story1_title" = "I want to play";
+"storyBoy_text" = "Khaled was standing in the school playground, watching the children playing together.";
+
+"story2_title" = "";
+"story2_text" = "He felt that he wanted to join them,\nbut he didn't know how to start.\n\nHe took a deep breath, then took a small step forward and smiled.\n\nHe said politely:\n\"Can I play with you?\"";
+
+//Sara
+//-------SarahStory------
+"story1_title" = "I want to play";
+"story1_text" = "Sara was standing in the school playground, watching the children playing together.";
+"story2_text" = "She felt that she wanted to join them, but she didn't know how to start. She took a deep breath, then took a small step forward with a light smile. She said politely: \"Can I play with you?\"";
+
+// Quiz
+"quiz_titles" = "Test yourself, let's start the quiz";
+"question1_titles" = "How did Sara ask to play?";
+"option_yells" = "Shouting at the children";
+"option_smiles" = "Smiling and asking politely";
+"answer_explains" = "Did Sara ask to play in a kind way?";
+
+//Splash
+"splash_welcome1" = "Welcome";
+"splash_welcome2" = "My Story";
+
+//SaraQuizzes (Angry)
+"quiz_titles_angry" = "I feel angry";
+"question1_titles_angry" = "What is the correct behavior when Sara gets angry?";
+"option_yells_angry" = "Throwing the blocks";
+"option_smiles_angry" = "Calming down and taking a breath";
+"answer_explains_angry" = "Does staying calm help solve the problem?";
+"true_btn_angry" = "Yes";
+"false_btn_angry" = "No";
+
+//Shy
+"quiz_titles_shy" = "I feel shy";
+"question1_titles_shy" = "What did Sara do when she felt shy?";
+"option_yells_shy" = "Ran away";
+"option_smiles_shy" = "Stepped forward with a smile";
+"answer_explains_shy" = "Does smiling help me when I feel shy?";
+"true_btn_shy" = "Yes";
+"false_btn_shy" = "No";
+
+/* General */
+"listen" = "Listen";
+"finish" = "Finish";
+
+/* Play Story */
+"play_title" = "I want to play";
+"play_text_1" = "Khaled was standing in the school playground, watching the children playing together.";
+"play_text_2" = "He felt that he wanted to join them, but he didn't know how to start. He took a deep breath, then stepped forward with a small smile and said politely: \"Can I play with you?\"";
+
+/* Shy Story */
+"shy_title" = "I feel shy";
+"shy_text_1" = "Khaled stood at the classroom door, watching two children talking together. He felt shy and hesitated.";
+"shy_text_2" = "He remembered what he always learned: Breathe… a small step… a smile. He raised his head and said hello.";
+
+/* Angry Story */
+"angry_title" = "I feel angry";
+"angry_text_1" = "Khaled was building a tower of blocks, and suddenly it fell and broke.";
+"angry_text_2" = "He felt angry. He took a deep breath and said to himself: I can try again.";
+
+/* Sad Story */
+"sad_title" = "My friend is sad";
+"sad_text_1" = "Khaled saw his friend sitting alone with his head down. He noticed that he looked sad.";
+"sad_text_2" = "He said to him politely: \"Are you okay? Do you need help?\" His friend smiled and felt better.";
+
+//Angry Girl Story
+"Angry_title" = "I feel angry";
+"Dialouge_1" = "Sara was making a tower with blocks and suddenly the tower fell and broke.";
+"Dialouge_2" = "She felt angry and her voice rose a little... then she sat quietly, took a deep breath, and said to herself: It's okay, I can try again.";
+"AngryGirlQuestion" = "What is the correct behavior when Sara gets angry?";
+"Option_Throw" = "Throwing the blocks";
+"Option_Breathe" = "Sitting and taking a breath";
+"AngryGirlQuestion2" = "Does staying calm help fix the problem?";
+
+//Shy Girl Story
+"Shy_title" = "I feel shy";
+"Dialouge1" = "Sara stood at the classroom door, watching two children talking. She felt shy and hesitated to approach them.";
+"Dialouge2" = "She remembered what she knew before... a small step... she raised her head, smiled, and stepped forward saying: Hello.. can I sit with you?";
+"ShyGirlQuestion" = "What did Sara do when she felt shy?";
+"Option_Hide" = "She hid";
+"Option_Calm" = "She took a breath and smiled";
+"ShyGirlQuestion2" = "Does smiling help me when I feel shy?";
+
+//Sad Girl Story
+"Sad_title" = "My sad friend";
+"Dialouge.1" = "Sara saw her friend sitting alone with her head down, she noticed that she looked sad.";
+"Dialouge.2" = "So she approached slowly and sat next to her. She said politely: \"Are you okay? Do you need help?\" Her friend smiled a little and felt relieved.";
+"SadGirlQuestion" = "How did Sara help her friend?";
+"Option_Ignore" = "She ignored her";
+"Option_Comfort" = "She asked if she was okay";
+"SadGirlQuestion2" = "Is helping a sad friend the right thing to do?";
+
+//====
+"home_menu_choose_story" = "Choose a Story";
+"home_menu_create_story" = "Create a Story";
+"category_screen_title" = "Choose a Story";
+"category_play"        = "I want to play";
+"category_angry"       = "I feel angry";
+"category_friend_sad"       = "My friend is sad";
+"category_friend_sad_girl"  = "My friend is sad";
+"category_shy"         = "I feel shy";
+
+"pause" = "pase";
+
+//====Accessibility====
+"page_previous" = "Previous page";
+"page_next" = "Next page";
+"back_button" = "Back";
+"new_story_button" = "New story";
+"retry_quiz" = "Retry quiz";
